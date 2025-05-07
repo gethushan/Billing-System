@@ -1,0 +1,867 @@
+[
+  {
+    "Country": "Australia",
+    "With Backfill Yearly Rate L5": 78000.0,
+    "Without Backfill Yearly Rate L5": 84000.0
+  },
+  {
+    "Country": "India",
+    "With Backfill Yearly Rate L5": 9180.780469,
+    "Without Backfill Yearly Rate L5": 10328.37803
+  },
+  {
+    "Country": "Sri Lanka",
+    "With Backfill Yearly Rate L5": 9180.780469,
+    "Without Backfill Yearly Rate L5": 10328.37803
+  },
+  {
+    "Country": "Afghanistan",
+    "With Backfill Yearly Rate L5": 9992.0,
+    "Without Backfill Yearly Rate L5": 11102.0
+  },
+  {
+    "Country": "Pakistan",
+    "With Backfill Yearly Rate L5": 12742.0,
+    "Without Backfill Yearly Rate L5": 14157.0
+  },
+  {
+    "Country": "Bangladesh",
+    "With Backfill Yearly Rate L5": 15489.0,
+    "Without Backfill Yearly Rate L5": 17209.0
+  },
+  {
+    "Country": "Bhutan",
+    "With Backfill Yearly Rate L5": 15489.0,
+    "Without Backfill Yearly Rate L5": 17209.0
+  },
+  {
+    "Country": "Nepal",
+    "With Backfill Yearly Rate L5": 16815.0,
+    "Without Backfill Yearly Rate L5": 18683.0
+  },
+  {
+    "Country": "Egypt",
+    "With Backfill Yearly Rate L5": 22414.21875,
+    "Without Backfill Yearly Rate L5": 25215.99609
+  },
+  {
+    "Country": "Cambodia",
+    "With Backfill Yearly Rate L5": 24337.0,
+    "Without Backfill Yearly Rate L5": 27041.0
+  },
+  {
+    "Country": "Cameroon",
+    "With Backfill Yearly Rate L5": 24337.0,
+    "Without Backfill Yearly Rate L5": 27041.0
+  },
+  {
+    "Country": "Vietnam",
+    "With Backfill Yearly Rate L5": 24337.0,
+    "Without Backfill Yearly Rate L5": 27041.0
+  },
+  {
+    "Country": "Philippines",
+    "With Backfill Yearly Rate L5": 24502.5,
+    "Without Backfill Yearly Rate L5": 27565.3125
+  },
+  {
+    "Country": "Indonesia",
+    "With Backfill Yearly Rate L5": 33187.0,
+    "Without Backfill Yearly Rate L5": 36874.0
+  },
+  {
+    "Country": "Maldives",
+    "With Backfill Yearly Rate L5": 33638.0,
+    "Without Backfill Yearly Rate L5": 37375.0
+  },
+  {
+    "Country": "Argentina",
+    "With Backfill Yearly Rate L5": 35937.0,
+    "Without Backfill Yearly Rate L5": 39930.0
+  },
+  {
+    "Country": "Chile",
+    "With Backfill Yearly Rate L5": 39140.0,
+    "Without Backfill Yearly Rate L5": 43488.0
+  },
+  {
+    "Country": "Colombia",
+    "With Backfill Yearly Rate L5": 39140.0,
+    "Without Backfill Yearly Rate L5": 43488.0
+  },
+  {
+    "Country": "Kenya",
+    "With Backfill Yearly Rate L5": 39140.0,
+    "Without Backfill Yearly Rate L5": 43488.0
+  },
+  {
+    "Country": "Malaysia",
+    "With Backfill Yearly Rate L5": 39140.0,
+    "Without Backfill Yearly Rate L5": 43488.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "With Backfill Yearly Rate L5": 39140.0,
+    "Without Backfill Yearly Rate L5": 43488.0
+  },
+  {
+    "Country": "Qatar",
+    "With Backfill Yearly Rate L5": 39816.5625,
+    "Without Backfill Yearly Rate L5": 44793.63281
+  },
+  {
+    "Country": "United Arab Emirates",
+    "With Backfill Yearly Rate L5": 39816.5625,
+    "Without Backfill Yearly Rate L5": 44793.63281
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Brunei",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "China",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Comoros",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Cuba",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Ecuador",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Ethiopia",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Fiji",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Ghana",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Guinea",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Honduras",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Mauritius",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Mongolia",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Myanmar",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Palau",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Senegal",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Uganda",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "Venezuela",
+    "With Backfill Yearly Rate L5": 39823.0,
+    "Without Backfill Yearly Rate L5": 44247.0
+  },
+  {
+    "Country": "South Africa",
+    "With Backfill Yearly Rate L5": 42879.375,
+    "Without Backfill Yearly Rate L5": 48239.29688
+  },
+  {
+    "Country": "Congo",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Iran",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Iraq",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Jordan",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Lebanon",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Liberia",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Libya",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Palestine",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Syria",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Tajikistan",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Tanzania",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Tunisia",
+    "With Backfill Yearly Rate L5": 43054.0,
+    "Without Backfill Yearly Rate L5": 47837.0
+  },
+  {
+    "Country": "Vanuatu",
+    "With Backfill Yearly Rate L5": 44247.0,
+    "Without Backfill Yearly Rate L5": 49163.0
+  },
+  {
+    "Country": "Yemen",
+    "With Backfill Yearly Rate L5": 44367.0,
+    "Without Backfill Yearly Rate L5": 49296.0
+  },
+  {
+    "Country": "Kuwait",
+    "With Backfill Yearly Rate L5": 45674.0,
+    "Without Backfill Yearly Rate L5": 50748.0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "With Backfill Yearly Rate L5": 45942.1875,
+    "Without Backfill Yearly Rate L5": 51684.96094
+  },
+  {
+    "Country": "Estonia",
+    "With Backfill Yearly Rate L5": 48030.46875,
+    "Without Backfill Yearly Rate L5": 54034.27734
+  },
+  {
+    "Country": "Croatia",
+    "With Backfill Yearly Rate L5": 48287.0,
+    "Without Backfill Yearly Rate L5": 53652.0
+  },
+  {
+    "Country": "Belarus",
+    "With Backfill Yearly Rate L5": 48672.0,
+    "Without Backfill Yearly Rate L5": 54080.0
+  },
+  {
+    "Country": "Oman",
+    "With Backfill Yearly Rate L5": 48672.0,
+    "Without Backfill Yearly Rate L5": 54080.0
+  },
+  {
+    "Country": "Rwanda",
+    "With Backfill Yearly Rate L5": 50241.0,
+    "Without Backfill Yearly Rate L5": 55823.0
+  },
+  {
+    "Country": "Cyprus",
+    "With Backfill Yearly Rate L5": 50885.0,
+    "Without Backfill Yearly Rate L5": 56538.0
+  },
+  {
+    "Country": "Czech Republic",
+    "With Backfill Yearly Rate L5": 50885.0,
+    "Without Backfill Yearly Rate L5": 56538.0
+  },
+  {
+    "Country": "Thailand",
+    "With Backfill Yearly Rate L5": 50885.0,
+    "Without Backfill Yearly Rate L5": 56538.0
+  },
+  {
+    "Country": "Mexico",
+    "With Backfill Yearly Rate L5": 51329.53125,
+    "Without Backfill Yearly Rate L5": 59028.96094
+  },
+  {
+    "Country": "Greece",
+    "With Backfill Yearly Rate L5": 52067.8125,
+    "Without Backfill Yearly Rate L5": 58576.28906
+  },
+  {
+    "Country": "Latvia",
+    "With Backfill Yearly Rate L5": 52067.8125,
+    "Without Backfill Yearly Rate L5": 58576.28906
+  },
+  {
+    "Country": "Lithuania",
+    "With Backfill Yearly Rate L5": 52067.8125,
+    "Without Backfill Yearly Rate L5": 58576.28906
+  },
+  {
+    "Country": "Taiwan",
+    "With Backfill Yearly Rate L5": 52067.8125,
+    "Without Backfill Yearly Rate L5": 58576.28906
+  },
+  {
+    "Country": "Bulgaria",
+    "With Backfill Yearly Rate L5": 52185.02344,
+    "Without Backfill Yearly Rate L5": 60012.77695
+  },
+  {
+    "Country": "Jamaica",
+    "With Backfill Yearly Rate L5": 52208.0,
+    "Without Backfill Yearly Rate L5": 58008.0
+  },
+  {
+    "Country": "Hong Kong",
+    "With Backfill Yearly Rate L5": 53097.0,
+    "Without Backfill Yearly Rate L5": 58996.0
+  },
+  {
+    "Country": "Hungary",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Poland",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Portugal",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Romania",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Slovakia",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Slovenia",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Spain",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "United Kingdom",
+    "With Backfill Yearly Rate L5": 55130.625,
+    "Without Backfill Yearly Rate L5": 62021.95313
+  },
+  {
+    "Country": "Puerto Rico",
+    "With Backfill Yearly Rate L5": 55308.0,
+    "Without Backfill Yearly Rate L5": 61453.0
+  },
+  {
+    "Country": "Reunion",
+    "With Backfill Yearly Rate L5": 55308.0,
+    "Without Backfill Yearly Rate L5": 61453.0
+  },
+  {
+    "Country": "Solomon Islands",
+    "With Backfill Yearly Rate L5": 55308.0,
+    "Without Backfill Yearly Rate L5": 61453.0
+  },
+  {
+    "Country": "Turkey",
+    "With Backfill Yearly Rate L5": 56128.0,
+    "Without Backfill Yearly Rate L5": 62364.0
+  },
+  {
+    "Country": "Albania",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Andorra",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Angola",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Azerbaijan",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Bolivia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Botswana",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Central African Republic",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Costa Rica",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "El Salvador",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "The Gambia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Georgia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Gibraltar",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Greenland",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Grenada",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Guatemala",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Liechtenstein",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Macedonia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Madagascar",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Malawi",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Mali",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Mayotte",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Moldova",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Monaco",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Morocco",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Mozambique",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Namibia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Nauru",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "New Caledonia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Nicaragua",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Niger",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Nigeria",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Panama",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Paraguay",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Peru",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Russia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Serbia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Seychelles",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Sierra Leone",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Somalia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Sudan",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Suriname",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Turkmenistan",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Ukraine",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Uruguay",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Zambia",
+    "With Backfill Yearly Rate L5": 57521.0,
+    "Without Backfill Yearly Rate L5": 63912.0
+  },
+  {
+    "Country": "Algeria",
+    "With Backfill Yearly Rate L5": 58088.0,
+    "Without Backfill Yearly Rate L5": 64542.0
+  },
+  {
+    "Country": "Armenia",
+    "With Backfill Yearly Rate L5": 58088.0,
+    "Without Backfill Yearly Rate L5": 64542.0
+  },
+  {
+    "Country": "Aruba",
+    "With Backfill Yearly Rate L5": 58088.0,
+    "Without Backfill Yearly Rate L5": 64542.0
+  },
+  {
+    "Country": "Bahrain",
+    "With Backfill Yearly Rate L5": 59733.0,
+    "Without Backfill Yearly Rate L5": 66369.0
+  },
+  {
+    "Country": "Guernsey",
+    "With Backfill Yearly Rate L5": 64158.0,
+    "Without Backfill Yearly Rate L5": 71286.0
+  },
+  {
+    "Country": "Macau",
+    "With Backfill Yearly Rate L5": 64158.0,
+    "Without Backfill Yearly Rate L5": 71286.0
+  },
+  {
+    "Country": "Malta",
+    "With Backfill Yearly Rate L5": 64158.0,
+    "Without Backfill Yearly Rate L5": 71286.0
+  },
+  {
+    "Country": "Italy",
+    "With Backfill Yearly Rate L5": 64319.0625,
+    "Without Backfill Yearly Rate L5": 72358.94531
+  },
+  {
+    "Country": "Singapore",
+    "With Backfill Yearly Rate L5": 64319.0625,
+    "Without Backfill Yearly Rate L5": 72358.94531
+  },
+  {
+    "Country": "Austria",
+    "With Backfill Yearly Rate L5": 66719.8357,
+    "Without Backfill Yearly Rate L5": 76727.81106
+  },
+  {
+    "Country": "Brazil",
+    "With Backfill Yearly Rate L5": 66728.39063,
+    "Without Backfill Yearly Rate L5": 76737.64922
+  },
+  {
+    "Country": "Israel",
+    "With Backfill Yearly Rate L5": 68138.0,
+    "Without Backfill Yearly Rate L5": 75708.0
+  },
+  {
+    "Country": "Jersey",
+    "With Backfill Yearly Rate L5": 71874.0,
+    "Without Backfill Yearly Rate L5": 79860.0
+  },
+  {
+    "Country": "Ireland",
+    "With Backfill Yearly Rate L5": 73313.0,
+    "Without Backfill Yearly Rate L5": 81458.0
+  },
+  {
+    "Country": "Netherlands",
+    "With Backfill Yearly Rate L5": 73507.5,
+    "Without Backfill Yearly Rate L5": 82695.9375
+  },
+  {
+    "Country": "Sweden",
+    "With Backfill Yearly Rate L5": 76570.3125,
+    "Without Backfill Yearly Rate L5": 86141.60156
+  },
+  {
+    "Country": "France",
+    "With Backfill Yearly Rate L5": 76848.75,
+    "Without Backfill Yearly Rate L5": 86454.84375
+  },
+  {
+    "Country": "New Zealand",
+    "With Backfill Yearly Rate L5": 78000.0,
+    "Without Backfill Yearly Rate L5": 84000.0
+  },
+  {
+    "Country": "South Korea",
+    "With Backfill Yearly Rate L5": 78110.15625,
+    "Without Backfill Yearly Rate L5": 89826.67969
+  },
+  {
+    "Country": "The Bahamas",
+    "With Backfill Yearly Rate L5": 81856.0,
+    "Without Backfill Yearly Rate L5": 90951.0
+  },
+  {
+    "Country": "Iceland",
+    "With Backfill Yearly Rate L5": 81856.0,
+    "Without Backfill Yearly Rate L5": 90951.0
+  },
+  {
+    "Country": "Virgin Islands",
+    "With Backfill Yearly Rate L5": 81856.0,
+    "Without Backfill Yearly Rate L5": 90951.0
+  },
+  {
+    "Country": "Canada",
+    "With Backfill Yearly Rate L5": 82127.25,
+    "Without Backfill Yearly Rate L5": 94446.3375
+  },
+  {
+    "Country": "Denmark",
+    "With Backfill Yearly Rate L5": 82139.0625,
+    "Without Backfill Yearly Rate L5": 92406.44531
+  },
+  {
+    "Country": "Finland",
+    "With Backfill Yearly Rate L5": 82139.0625,
+    "Without Backfill Yearly Rate L5": 92406.44531
+  },
+  {
+    "Country": "United States of America (Tier 2)",
+    "With Backfill Yearly Rate L5": 83475.0,
+    "Without Backfill Yearly Rate L5": 93910.0
+  },
+  {
+    "Country": "Germany",
+    "With Backfill Yearly Rate L5": 84227.34375,
+    "Without Backfill Yearly Rate L5": 94755.76172
+  },
+  {
+    "Country": "United States of America (Tier 1)",
+    "With Backfill Yearly Rate L5": 96478.59375,
+    "Without Backfill Yearly Rate L5": 108538.418
+  },
+  {
+    "Country": "Luxembourg",
+    "With Backfill Yearly Rate L5": 91884.375,
+    "Without Backfill Yearly Rate L5": 103369.9219
+  },
+  {
+    "Country": "Japan",
+    "With Backfill Yearly Rate L5": 99541.40625,
+    "Without Backfill Yearly Rate L5": 111984.082
+  },
+  {
+    "Country": "Norway",
+    "With Backfill Yearly Rate L5": 104135.625,
+    "Without Backfill Yearly Rate L5": 117152.5781
+  },
+  {
+    "Country": "Switzerland",
+    "With Backfill Yearly Rate L5": 110261.25,
+    "Without Backfill Yearly Rate L5": 124043.9063
+  },
+  {
+    "Country": "Belgium",
+    "With Backfill Yearly Rate L5": 111213.9844,
+    "Without Backfill Yearly Rate L5": 127896.082
+  }
+]

@@ -1,0 +1,1040 @@
+[
+  {
+    "Country": "Australia",
+    "2 BD Resolution to site": 97.875,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "India",
+    "2 BD Resolution to site": 15.75,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "Sri Lanka",
+    "2 BD Resolution to site": 17.1,
+    "3 BD Resolution to site": 89.3025,
+    "4 BD Resolution to site": 87.51645
+  },
+  {
+    "Country": "Afghanistan",
+    "2 BD Resolution to site": 15.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Pakistan",
+    "2 BD Resolution to site": 17.1,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Bangladesh",
+    "2 BD Resolution to site": 15.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Bhutan",
+    "2 BD Resolution to site": 15.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Nepal",
+    "2 BD Resolution to site": 17.1,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Egypt",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Cambodia",
+    "2 BD Resolution to site": 24.75,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Cameroon",
+    "2 BD Resolution to site": 24.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Vietnam",
+    "2 BD Resolution to site": 24.75,
+    "3 BD Resolution to site": 36.3825,
+    "4 BD Resolution to site": 35.65485
+  },
+  {
+    "Country": "Philippines",
+    "2 BD Resolution to site": 36.0,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Indonesia",
+    "2 BD Resolution to site": 33.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Maldives",
+    "2 BD Resolution to site": 33.75,
+    "3 BD Resolution to site": 62.8425,
+    "4 BD Resolution to site": 61.58565
+  },
+  {
+    "Country": "Argentina",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Chile",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Colombia",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Kenya",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Malaysia",
+    "2 BD Resolution to site": 38.25,
+    "3 BD Resolution to site": 36.3825,
+    "4 BD Resolution to site": 35.65485
+  },
+  {
+    "Country": "Zimbabwe",
+    "2 BD Resolution to site": 45.0,
+    "3 BD Resolution to site": 62.8425,
+    "4 BD Resolution to site": 61.58565
+  },
+  {
+    "Country": "Qatar",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "United Arab Emirates",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "Brunei",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "China",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Comoros",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Cuba",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Dominican Republic",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Ecuador",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Ethiopia",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Fiji",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Ghana",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "Guinea",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Honduras",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Mauritius",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 66.15,
+    "4 BD Resolution to site": 64.827
+  },
+  {
+    "Country": "Mongolia",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Myanmar",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Palau",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Senegal",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 66.15,
+    "4 BD Resolution to site": 64.827
+  },
+  {
+    "Country": "Uganda",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Uzbekistan",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Venezuela",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "South Africa",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Congo",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Iran",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Iraq",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Jordan",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Kazakhstan",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Lebanon",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Liberia",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Libya",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Palestine",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Syria",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 70.119,
+    "4 BD Resolution to site": 68.71662
+  },
+  {
+    "Country": "Tajikistan",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Tanzania",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Tunisia",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 70.119,
+    "4 BD Resolution to site": 68.71662
+  },
+  {
+    "Country": "Vanuatu",
+    "2 BD Resolution to site": 45.0,
+    "3 BD Resolution to site": 62.8425,
+    "4 BD Resolution to site": 61.58565
+  },
+  {
+    "Country": "Yemen",
+    "2 BD Resolution to site": 45.0,
+    "3 BD Resolution to site": 62.8425,
+    "4 BD Resolution to site": 61.58565
+  },
+  {
+    "Country": "Kuwait",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Saudi Arabia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Estonia",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Croatia",
+    "2 BD Resolution to site": 54.0,
+    "3 BD Resolution to site": 49.6125,
+    "4 BD Resolution to site": 48.62025
+  },
+  {
+    "Country": "Belarus",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Oman",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Rwanda",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Cyprus",
+    "2 BD Resolution to site": 51.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Czech Republic",
+    "2 BD Resolution to site": 51.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Thailand",
+    "2 BD Resolution to site": 51.75,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "Mexico",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Greece",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Latvia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Lithuania",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Taiwan",
+    "2 BD Resolution to site": 47.25,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Bulgaria",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Jamaica",
+    "2 BD Resolution to site": 40.5,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "Hong Kong",
+    "2 BD Resolution to site": 54.0,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Hungary",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 131.6385,
+    "4 BD Resolution to site": 129.00573
+  },
+  {
+    "Country": "Poland",
+    "2 BD Resolution to site": 54.0,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Portugal",
+    "2 BD Resolution to site": 51.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Romania",
+    "2 BD Resolution to site": 51.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Slovakia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Slovenia",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Spain",
+    "2 BD Resolution to site": 51.75,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "United Kingdom",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Puerto Rico",
+    "2 BD Resolution to site": 56.25,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Reunion",
+    "2 BD Resolution to site": 56.25,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Solomon Islands",
+    "2 BD Resolution to site": 56.25,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Turkey",
+    "2 BD Resolution to site": 49.5,
+    "3 BD Resolution to site": 73.4265,
+    "4 BD Resolution to site": 71.95797
+  },
+  {
+    "Country": "Albania",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Andorra",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Angola",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Azerbaijan",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Bolivia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "Botswana",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Central African Republic",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Costa Rica",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "El Salvador",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "The Gambia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Georgia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Gibraltar",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Greenland",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "Grenada",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 72.765,
+    "4 BD Resolution to site": 71.3097
+  },
+  {
+    "Country": "Guatemala",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Liechtenstein",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Macedonia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Madagascar",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Malawi",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Mali",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Mayotte",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Moldova",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Monaco",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Morocco",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Mozambique",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Namibia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 76.0725,
+    "4 BD Resolution to site": 74.55105
+  },
+  {
+    "Country": "Nauru",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "New Caledonia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Nicaragua",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Niger",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Nigeria",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Panama",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Papua New Guinea",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Paraguay",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Peru",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Russia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Serbia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Seychelles",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Sierra Leone",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "Somalia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Sudan",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 66.15,
+    "4 BD Resolution to site": 64.827
+  },
+  {
+    "Country": "Suriname",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Turkmenistan",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Ukraine",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Uruguay",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Zambia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Algeria",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Armenia",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Aruba",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Bahrain",
+    "2 BD Resolution to site": 60.75,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Guernsey",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Macau",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Malta",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Italy",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Singapore",
+    "2 BD Resolution to site": 51.3,
+    "3 BD Resolution to site": 59.535,
+    "4 BD Resolution to site": 58.3443
+  },
+  {
+    "Country": "Austria",
+    "2 BD Resolution to site": 54.0,
+    "3 BD Resolution to site": 79.38,
+    "4 BD Resolution to site": 77.7924
+  },
+  {
+    "Country": "Brazil",
+    "2 BD Resolution to site": 56.25,
+    "3 BD Resolution to site": 82.6875,
+    "4 BD Resolution to site": 81.03375
+  },
+  {
+    "Country": "Israel",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Jersey",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Ireland",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Netherlands",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Sweden",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "France",
+    "2 BD Resolution to site": 69.0,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "New Zealand",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "South Korea",
+    "2 BD Resolution to site": 58.5,
+    "3 BD Resolution to site": 128.9925,
+    "4 BD Resolution to site": 126.41265
+  },
+  {
+    "Country": "The Bahamas",
+    "2 BD Resolution to site": 83.25,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "Iceland",
+    "2 BD Resolution to site": 83.25,
+    "3 BD Resolution to site": 122.3775,
+    "4 BD Resolution to site": 119.92995
+  },
+  {
+    "Country": "Virgin Islands",
+    "2 BD Resolution to site": 83.25,
+    "3 BD Resolution to site": 119.07,
+    "4 BD Resolution to site": 116.6886
+  },
+  {
+    "Country": "Canada",
+    "2 BD Resolution to site": 54.0,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Denmark",
+    "2 BD Resolution to site": 65.25,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Finland",
+    "2 BD Resolution to site": 69.0,
+    "3 BD Resolution to site": 128.9925,
+    "4 BD Resolution to site": 126.41265
+  },
+  {
+    "Country": "United States of America (Tier 2)",
+    "2 BD Resolution to site": 80.0,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "Germany",
+    "2 BD Resolution to site": 69.0,
+    "3 BD Resolution to site": 95.9175,
+    "4 BD Resolution to site": 93.99915
+  },
+  {
+    "Country": "United States of America (Tier 1)",
+    "2 BD Resolution to site": 87.4125,
+    "3 BD Resolution to site": 90.29475,
+    "4 BD Resolution to site": 88.488855
+  },
+  {
+    "Country": "Luxembourg",
+    "2 BD Resolution to site": 83.25,
+    "3 BD Resolution to site": 85.995,
+    "4 BD Resolution to site": 84.2751
+  },
+  {
+    "Country": "Japan",
+    "2 BD Resolution to site": 79.0,
+    "3 BD Resolution to site": 128.9925,
+    "4 BD Resolution to site": 126.41265
+  },
+  {
+    "Country": "Norway",
+    "2 BD Resolution to site": 89.55,
+    "3 BD Resolution to site": 128.9925,
+    "4 BD Resolution to site": 126.41265
+  },
+  {
+    "Country": "Switzerland",
+    "2 BD Resolution to site": 89.55,
+    "3 BD Resolution to site": 128.9925,
+    "4 BD Resolution to site": 126.41265
+  },
+  {
+    "Country": "Belgium",
+    "2 BD Resolution to site": 78.75,
+    "3 BD Resolution to site": 128.9925,
+    "4 BD Resolution to site": 126.41265
+  }
+]

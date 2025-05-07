@@ -1,0 +1,1732 @@
+[
+  {
+    "Country": "Australia",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "India",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Sri Lanka",
+    "9x5x4 Incident Response": 121.5,
+    "24x7x4 Response to site": 162.0,
+    "SBD Business Day Resolution to site": 135.0,
+    "NBD Resolution to site": 101.25,
+    "2BD Resolution to site": 91.125,
+    "3BD Resolution to site": 89.3025,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Afghanistan",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Pakistan",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Bangladesh",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Bhutan",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Nepal",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 15.0
+  },
+  {
+    "Country": "Egypt",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Cambodia",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 25.0
+  },
+  {
+    "Country": "Cameroon",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 25.0
+  },
+  {
+    "Country": "Vietnam",
+    "9x5x4 Incident Response": 49.5,
+    "24x7x4 Response to site": 66.0,
+    "SBD Business Day Resolution to site": 55.0,
+    "NBD Resolution to site": 41.25,
+    "2BD Resolution to site": 37.125,
+    "3BD Resolution to site": 36.3825,
+    "Additional Hour Rate": 25.0
+  },
+  {
+    "Country": "Philippines",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 35.0
+  },
+  {
+    "Country": "Indonesia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 35.0
+  },
+  {
+    "Country": "Maldives",
+    "9x5x4 Incident Response": 85.5,
+    "24x7x4 Response to site": 114.0,
+    "SBD Business Day Resolution to site": 95.0,
+    "NBD Resolution to site": 71.25,
+    "2BD Resolution to site": 64.125,
+    "3BD Resolution to site": 62.8425,
+    "Additional Hour Rate": 35.0
+  },
+  {
+    "Country": "Argentina",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Chile",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Colombia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Kenya",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Malaysia",
+    "9x5x4 Incident Response": 49.5,
+    "24x7x4 Response to site": 66.0,
+    "SBD Business Day Resolution to site": 55.0,
+    "NBD Resolution to site": 41.25,
+    "2BD Resolution to site": 37.125,
+    "3BD Resolution to site": 36.3825,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Zimbabwe",
+    "9x5x4 Incident Response": 85.5,
+    "24x7x4 Response to site": 114.0,
+    "SBD Business Day Resolution to site": 95.0,
+    "NBD Resolution to site": 71.25,
+    "2BD Resolution to site": 64.125,
+    "3BD Resolution to site": 62.8425,
+    "Additional Hour Rate": 45.0
+  },
+  {
+    "Country": "Qatar",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "United Arab Emirates",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Brunei",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "China",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Comoros",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Cuba",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Dominican Republic",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Ecuador",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Ethiopia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Fiji",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Ghana",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Guinea",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Honduras",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Mauritius",
+    "9x5x4 Incident Response": 90.0,
+    "24x7x4 Response to site": 120.0,
+    "SBD Business Day Resolution to site": 100.0,
+    "NBD Resolution to site": 75.0,
+    "2BD Resolution to site": 67.5,
+    "3BD Resolution to site": 66.15,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Mongolia",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Myanmar",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Palau",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Senegal",
+    "9x5x4 Incident Response": 90.0,
+    "24x7x4 Response to site": 120.0,
+    "SBD Business Day Resolution to site": 100.0,
+    "NBD Resolution to site": 75.0,
+    "2BD Resolution to site": 67.5,
+    "3BD Resolution to site": 66.15,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Uganda",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Uzbekistan",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Venezuela",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "South Africa",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Congo",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Iran",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Iraq",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Jordan",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Kazakhstan",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Lebanon",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Liberia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Libya",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Palestine",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Syria",
+    "9x5x4 Incident Response": 95.4,
+    "24x7x4 Response to site": 127.2,
+    "SBD Business Day Resolution to site": 106.0,
+    "NBD Resolution to site": 79.5,
+    "2BD Resolution to site": 71.55,
+    "3BD Resolution to site": 70.119,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Tajikistan",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Tanzania",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Tunisia",
+    "9x5x4 Incident Response": 95.4,
+    "24x7x4 Response to site": 127.2,
+    "SBD Business Day Resolution to site": 106.0,
+    "NBD Resolution to site": 79.5,
+    "2BD Resolution to site": 71.55,
+    "3BD Resolution to site": 70.119,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Vanuatu",
+    "9x5x4 Incident Response": 85.5,
+    "24x7x4 Response to site": 114.0,
+    "SBD Business Day Resolution to site": 95.0,
+    "NBD Resolution to site": 71.25,
+    "2BD Resolution to site": 64.125,
+    "3BD Resolution to site": 62.8425,
+    "Additional Hour Rate": 45.0
+  },
+  {
+    "Country": "Yemen",
+    "9x5x4 Incident Response": 85.5,
+    "24x7x4 Response to site": 114.0,
+    "SBD Business Day Resolution to site": 95.0,
+    "NBD Resolution to site": 71.25,
+    "2BD Resolution to site": 64.125,
+    "3BD Resolution to site": 62.8425,
+    "Additional Hour Rate": 45.0
+  },
+  {
+    "Country": "Kuwait",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Saudi Arabia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Estonia",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Croatia",
+    "9x5x4 Incident Response": 67.5,
+    "24x7x4 Response to site": 90.0,
+    "SBD Business Day Resolution to site": 75.0,
+    "NBD Resolution to site": 56.25,
+    "2BD Resolution to site": 50.625,
+    "3BD Resolution to site": 49.6125,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Belarus",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Oman",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Rwanda",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Cyprus",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Czech Republic",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Thailand",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Mexico",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Greece",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Latvia",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Lithuania",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Taiwan",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 45.0
+  },
+  {
+    "Country": "Bulgaria",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Jamaica",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 40.0
+  },
+  {
+    "Country": "Hong Kong",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Hungary",
+    "9x5x4 Incident Response": 179.1,
+    "24x7x4 Response to site": 238.8,
+    "SBD Business Day Resolution to site": 199.0,
+    "NBD Resolution to site": 149.25,
+    "2BD Resolution to site": 134.325,
+    "3BD Resolution to site": 131.6385,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Poland",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Portugal",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Romania",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Slovakia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Slovenia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Spain",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "United Kingdom",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Puerto Rico",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Reunion",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Solomon Islands",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Turkey",
+    "9x5x4 Incident Response": 99.9,
+    "24x7x4 Response to site": 133.2,
+    "SBD Business Day Resolution to site": 111.0,
+    "NBD Resolution to site": 83.25,
+    "2BD Resolution to site": 74.925,
+    "3BD Resolution to site": 73.4265,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Albania",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Andorra",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Angola",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Azerbaijan",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Bolivia",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Botswana",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Central African Republic",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Costa Rica",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "El Salvador",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "The Gambia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Georgia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Gibraltar",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Greenland",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Grenada",
+    "9x5x4 Incident Response": 99.0,
+    "24x7x4 Response to site": 132.0,
+    "SBD Business Day Resolution to site": 110.0,
+    "NBD Resolution to site": 82.5,
+    "2BD Resolution to site": 74.25,
+    "3BD Resolution to site": 72.765,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Guatemala",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Liechtenstein",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Macedonia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Madagascar",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Malawi",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Mali",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Mayotte",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Moldova",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Monaco",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Morocco",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Mozambique",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Namibia",
+    "9x5x4 Incident Response": 103.5,
+    "24x7x4 Response to site": 138.0,
+    "SBD Business Day Resolution to site": 115.0,
+    "NBD Resolution to site": 86.25,
+    "2BD Resolution to site": 77.625,
+    "3BD Resolution to site": 76.0725,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Nauru",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "New Caledonia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Nicaragua",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Niger",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Nigeria",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Panama",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Papua New Guinea",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Paraguay",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Peru",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Russia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Serbia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Seychelles",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Sierra Leone",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Somalia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Sudan",
+    "9x5x4 Incident Response": 90.0,
+    "24x7x4 Response to site": 120.0,
+    "SBD Business Day Resolution to site": 100.0,
+    "NBD Resolution to site": 75.0,
+    "2BD Resolution to site": 67.5,
+    "3BD Resolution to site": 66.15,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Suriname",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Turkmenistan",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Ukraine",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Uruguay",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Zambia",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Algeria",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Armenia",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Aruba",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Bahrain",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Guernsey",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Macau",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Malta",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Italy",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Singapore",
+    "9x5x4 Incident Response": 81.0,
+    "24x7x4 Response to site": 108.0,
+    "SBD Business Day Resolution to site": 90.0,
+    "NBD Resolution to site": 67.5,
+    "2BD Resolution to site": 60.75,
+    "3BD Resolution to site": 59.535,
+    "Additional Hour Rate": 50.0
+  },
+  {
+    "Country": "Austria",
+    "9x5x4 Incident Response": 108.0,
+    "24x7x4 Response to site": 144.0,
+    "SBD Business Day Resolution to site": 120.0,
+    "NBD Resolution to site": 90.0,
+    "2BD Resolution to site": 81.0,
+    "3BD Resolution to site": 79.38,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Brazil",
+    "9x5x4 Incident Response": 112.5,
+    "24x7x4 Response to site": 150.0,
+    "SBD Business Day Resolution to site": 125.0,
+    "NBD Resolution to site": 93.75,
+    "2BD Resolution to site": 84.375,
+    "3BD Resolution to site": 82.6875,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Israel",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Jersey",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Ireland",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Netherlands",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "Sweden",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "France",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 70.0
+  },
+  {
+    "Country": "New Zealand",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "South Korea",
+    "9x5x4 Incident Response": 175.5,
+    "24x7x4 Response to site": 234.0,
+    "SBD Business Day Resolution to site": 195.0,
+    "NBD Resolution to site": 146.25,
+    "2BD Resolution to site": 131.625,
+    "3BD Resolution to site": 128.9925,
+    "Additional Hour Rate": 60.0
+  },
+  {
+    "Country": "The Bahamas",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 85.0
+  },
+  {
+    "Country": "Iceland",
+    "9x5x4 Incident Response": 166.5,
+    "24x7x4 Response to site": 222.0,
+    "SBD Business Day Resolution to site": 185.0,
+    "NBD Resolution to site": 138.75,
+    "2BD Resolution to site": 124.875,
+    "3BD Resolution to site": 122.3775,
+    "Additional Hour Rate": 85.0
+  },
+  {
+    "Country": "Virgin Islands",
+    "9x5x4 Incident Response": 162.0,
+    "24x7x4 Response to site": 216.0,
+    "SBD Business Day Resolution to site": 180.0,
+    "NBD Resolution to site": 135.0,
+    "2BD Resolution to site": 121.5,
+    "3BD Resolution to site": 119.07,
+    "Additional Hour Rate": 85.0
+  },
+  {
+    "Country": "Canada",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 55.0
+  },
+  {
+    "Country": "Denmark",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 65.0
+  },
+  {
+    "Country": "Finland",
+    "9x5x4 Incident Response": 175.5,
+    "24x7x4 Response to site": 234.0,
+    "SBD Business Day Resolution to site": 195.0,
+    "NBD Resolution to site": 146.25,
+    "2BD Resolution to site": 131.625,
+    "3BD Resolution to site": 128.9925,
+    "Additional Hour Rate": 70.0
+  },
+  {
+    "Country": "United States of America (Tier 2)",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 80.0
+  },
+  {
+    "Country": "Germany",
+    "9x5x4 Incident Response": 130.5,
+    "24x7x4 Response to site": 174.0,
+    "SBD Business Day Resolution to site": 145.0,
+    "NBD Resolution to site": 108.75,
+    "2BD Resolution to site": 97.875,
+    "3BD Resolution to site": 95.9175,
+    "Additional Hour Rate": 70.0
+  },
+  {
+    "Country": "United States of America (Tier 1)",
+    "9x5x4 Incident Response": 122.85,
+    "24x7x4 Response to site": 163.8,
+    "SBD Business Day Resolution to site": 136.5,
+    "NBD Resolution to site": 102.375,
+    "2BD Resolution to site": 92.1375,
+    "3BD Resolution to site": 90.29475,
+    "Additional Hour Rate": 89.25
+  },
+  {
+    "Country": "Luxembourg",
+    "9x5x4 Incident Response": 117.0,
+    "24x7x4 Response to site": 156.0,
+    "SBD Business Day Resolution to site": 130.0,
+    "NBD Resolution to site": 97.5,
+    "2BD Resolution to site": 87.75,
+    "3BD Resolution to site": 85.995,
+    "Additional Hour Rate": 85.0
+  },
+  {
+    "Country": "Japan",
+    "9x5x4 Incident Response": 175.5,
+    "24x7x4 Response to site": 234.0,
+    "SBD Business Day Resolution to site": 195.0,
+    "NBD Resolution to site": 146.25,
+    "2BD Resolution to site": 131.625,
+    "3BD Resolution to site": 128.9925,
+    "Additional Hour Rate": 80.0
+  },
+  {
+    "Country": "Norway",
+    "9x5x4 Incident Response": 175.5,
+    "24x7x4 Response to site": 234.0,
+    "SBD Business Day Resolution to site": 195.0,
+    "NBD Resolution to site": 146.25,
+    "2BD Resolution to site": 131.625,
+    "3BD Resolution to site": 128.9925,
+    "Additional Hour Rate": 90.0
+  },
+  {
+    "Country": "Switzerland",
+    "9x5x4 Incident Response": 175.5,
+    "24x7x4 Response to site": 234.0,
+    "SBD Business Day Resolution to site": 195.0,
+    "NBD Resolution to site": 146.25,
+    "2BD Resolution to site": 131.625,
+    "3BD Resolution to site": 128.9925,
+    "Additional Hour Rate": 90.0
+  },
+  {
+    "Country": "Belgium",
+    "9x5x4 Incident Response": 175.5,
+    "24x7x4 Response to site": 234.0,
+    "SBD Business Day Resolution to site": 195.0,
+    "NBD Resolution to site": 146.25,
+    "2BD Resolution to site": 131.625,
+    "3BD Resolution to site": 128.9925,
+    "Additional Hour Rate": 80.0
+  }
+]
