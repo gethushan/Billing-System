@@ -154,7 +154,7 @@ export default function ServiceForm() {
   return (
     <div className="max-w-2xl mx-auto p-6 bg-white rounded-lg shadow-md">
       <h1 className="text-2xl font-bold text-gray-800 mb-6 text-center">
-        Service Request Form
+        Teceze Service Request Form
       </h1>
 
       {error && (
