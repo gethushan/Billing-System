@@ -170,7 +170,7 @@ export default function ServiceForm() {
       {success ? (
         <div className="p-4 mb-6 text-green-700 bg-green-100 rounded-lg">
           <p className="font-semibold">Form submitted successfully!</p>
-          <p>We'll get back to you soon.</p>
+          <p>We&apos;ll get back to you soon.</p>
         </div>
       ) : (
         <form onSubmit={handleSubmit} className="space-y-6">
