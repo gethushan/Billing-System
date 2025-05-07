@@ -567,23 +567,23 @@ export default function ServiceForm() {
           <p className="mt-1">Here is the detailed price breakdown:</p>
           <ul className="mt-3 list-disc pl-5 text-sm text-gray-700">
             <li>
-              Base Price: {currencySymbol}
+              Service Level Price: {currencySymbol}
               {detailedData.data.basePrice?.toFixed(2) ?? "0.00"}
             </li>
             <li>
-              Duration Price: {currencySymbol}
+              Duration Price(Long/Short Term): {currencySymbol}
               {detailedData.data.durationPrice?.toFixed(2) ?? "0.00"}
             </li>
             <li>
-              Visit Price: {currencySymbol}
+              Field Visit Price: {currencySymbol}
               {detailedData.data.visitPrice?.toFixed(2) ?? "0.00"}
             </li>
             <li>
-              Dispatch Price: {currencySymbol}
+              Dispatch Ticket Price: {currencySymbol}
               {detailedData.data.dispatchPrice?.toFixed(2) ?? "0.00"}
             </li>
             <li>
-              Dispatch Extra Price: {currencySymbol}
+              Dispatch Extra Pricing: {currencySymbol}
               {detailedData.data.dispatchExtraPrice?.toFixed(2) ?? "0.00"}
             </li>
             <li>
